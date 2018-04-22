@@ -6,7 +6,7 @@
 # Better touch tools
 # -----------
 brew cask install bettertouchtool
-/Users/torianin/Temporary/Other.sh
+
 # -----------
 # Caffeine
 # -----------
